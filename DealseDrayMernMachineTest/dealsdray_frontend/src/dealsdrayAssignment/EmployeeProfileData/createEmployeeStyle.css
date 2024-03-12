@@ -1,0 +1,17 @@
+.registerFormContainer{
+    width: 30%;
+    height: max-content;
+    padding:1em 2em 1.5em 2em;
+    margin: 0px auto;
+    background-color: rgba(221, 212, 195, 0.9);
+    border-radius: 0.6em;
+}
+
+.registerHeadingContainer{
+    font-size: 1.8em;
+    font-weight: 550;
+    text-align: center;
+    text-decoration:underline;
+    margin-bottom: 0.6em;
+    color:gray;
+}
